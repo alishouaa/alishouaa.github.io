@@ -10503,6 +10503,7 @@ section#coverbook .drop .color-tree {
 }
 section#coverbook .drop ul {
   padding-top: 80px;
+  padding: 0px;
 }
 section#coverbook .drop ul li {
   list-style: none;
