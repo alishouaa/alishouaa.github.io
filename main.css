@@ -10474,6 +10474,7 @@ section#book h2 {
 section#book img {
   height: 500px;
   border: 1px solid black;
+  width: 100%;
 }
 section#book img:hover,
 section#book img:focus {
@@ -10489,6 +10490,7 @@ section#coverbook .drop {
 }
 section#coverbook .drop img {
   border: 1px solid brown;
+  width:100%;
 }
 section#coverbook .drop .color-one {
   color: #0066ff;
@@ -10609,6 +10611,7 @@ iframe {
 
   section#book img {
     margin-top: 50px;
+    
   }
 
   .image #carouselwebsite span.custom {
