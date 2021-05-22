@@ -10502,8 +10502,8 @@ section#coverbook .drop .color-tree {
   color: #003366;
 }
 section#coverbook .drop ul {
-  padding-top: 80px;
-  padding: 0px;
+  padding-top: 50px;
+  padding: 0;
 }
 section#coverbook .drop ul li {
   list-style: none;
